@@ -1,0 +1,7 @@
+# Azure Pipeline will be added in the CI/CD phase.
+
+# Planned flow:
+# 1. Build Docker image
+# 2. Push image to Azure Container Registry
+# 3. Deploy application to AKS
+# 4. Validate deployment
