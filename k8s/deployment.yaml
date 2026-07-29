@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: observability-app
-        image: acrrizwanobservability.azurecr.io/observability-app:latest
+        image: acrrizwanobs268.azurecr.io/
         ports:
         - containerPort: 5000
         resources:
