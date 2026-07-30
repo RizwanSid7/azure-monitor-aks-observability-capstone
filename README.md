@@ -336,3 +336,14 @@ GitHub Repository:
 
 https://github.com/RizwanSid7/azure-monitor-aks-observability-capstone
 
+
+## Detailed Project Runbooks
+
+Detailed PDF documentation is available in the `docs/runbooks` folder.
+
+| File | Purpose |
+|---|---|
+| `AKS_Observability_Capstone_GUI_Runbook.pdf` | Azure Portal GUI-based implementation guide |
+| `AKS_Observability_Capstone_PowerShell_Runbook.pdf` | PowerShell, Azure CLI, Docker, kubectl, and Git command-based implementation guide |
+
+These runbooks explain the project purpose, prerequisites, implementation steps, screenshots, troubleshooting, cost considerations, production best practices, and cleanup process.
